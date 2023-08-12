@@ -1,0 +1,51 @@
+<!DOCTYPE html> 
+
+<html lang="en">
+    
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+    <link rel="stylesheet" href="styles.css">
+    <title>Exam 3</title> 
+</head>
+
+<body>
+<h1>Examination 3</h1>
+
+<h3>Super sorry for having to make this in HTML</h3>
+
+<div id="Description">
+
+<p>Below are my the images as requested and the code I used for 
+the Markdown but seemed to absolutely be against working at all, 
+so had to do it here, sorry again, hope its okay...</p>
+
+<p>Also I felt obligated to style this exam a tiny bit, my inner creative was crying 
+    seeing it as basic white background and I was very bored</p>
+
+</div>
+    <div id="Container">
+<img class="Image"
+src="/Images/Exam 1 HelloWorld.png" 
+alt="Picture of my first hello world">
+
+<br>
+
+<img class="Image"
+src="/Images/Exam 2 NPM.png" 
+alt="Picture of the NPM date and time">
+
+</div>
+<br>
+<hr id="codeTop">
+<h4>Here is the code I used for the Markdown examples:</h4>
+<code>
+    ![alt text](/Images/Exam 1 HelloWorld.png)
+    <br>
+    ![alt text](/Images/Exam 2 NPM.png)
+</code>
+<hr>
+
+<p>PS: I found the problem, I can change if needed?</p>
+</body>
+</html>
